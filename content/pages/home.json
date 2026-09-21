@@ -3,7 +3,7 @@
     "description": "Copy and labels for the Home page."
   },
   "en": {
-    "heroIntro": "I am Alex Chen, a robotics Ph.D. student working on embodied AI systems that can perceive, plan, and recover reliably in the real world. This template is designed to help you present your research, publications, projects, and writing with minimal code edits.",
+    "heroIntro": "I am Yingying Li, a psychological counselor and research assistant based in Leuven, Belgium. I hold a master’s degree from National Taiwan University, where I focused on developmental psychology. My research experience spans school-based social-emotional learning, trauma-informed group interventions, and university mental health programs. Drawing on both research and counseling practice, I am interested in how and for whom psychological interventions support meaningful change, particularly in self-concept, self-esteem, and well-being during emerging adulthood. I aim to use longitudinal and person-centered methods to understand individual pathways of change and inform more responsive, accessible psychological support.",
     "buttons": {
       "cv": "View CV",
       "publications": "View Publications",
@@ -12,9 +12,9 @@
     "highlights": {
       "title": "At a Glance",
       "focusLabel": "Current focus",
-      "focusValue": "Embodied AI for reliable long-horizon robot tasks",
+      "focusValue": "Psychological Interventions & Longitudinal Research",
       "contactLabel": "Email",
-      "contactValue": "Reveal email",
+      "contactValue": "Contact me",
       "locationLabel": "Based in"
     },
     "sections": {
