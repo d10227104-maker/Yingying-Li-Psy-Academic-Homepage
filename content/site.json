@@ -7,7 +7,7 @@
     }
   },
   "i18n": {
-    "mode": "bilingual",
-    "primaryLocale": ""
+    "mode": "en-only",
+    "primaryLocale": "en"
   }
 }
