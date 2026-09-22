@@ -8,92 +8,64 @@
   "en": {
     "updates": [
       {
-        "date": "2026-04-20",
+        "date": "2026-09-21",
         "type": "Commit",
-        "title": "chore: align node runtime to 24",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/d62558af994c2df311c4a84f20d406fd487432cc"
+        "title": "Update home page content for new user profile",
+        "summary": "Authored by d10227104-maker",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/2f8756bae5db8309874d79ed65c2fec36798e5ff"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "Commit",
-        "title": "docs: 优化文档",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/269de057f25d94414859f1d39fcbad023f904991"
+        "title": "Update profile.json with new user details",
+        "summary": "Authored by d10227104-maker",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/70e12a90f68388d6cbec37c494bbbf86736fe27c"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "Commit",
-        "title": "docs: add vercel link",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/e8d9b726e91ce71d0123de919164ab1f1e0cc3a7"
+        "title": "Change i18n mode to 'en-only' and set primaryLocale",
+        "summary": "Authored by d10227104-maker",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/c0fbd4f79f460cf8c20707a14f2a0ee9d865c790"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "Commit",
-        "title": "docs: 优化使用步骤",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/d41a14a15ec14dbb593b61a597e7b7bf01e9b178"
-      },
-      {
-        "date": "2026-04-10",
-        "type": "Commit",
-        "title": "docs: 优化文档说明",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/59e7c32425f52a0acb204385bb2d22a232f724a7"
-      },
-      {
-        "date": "2026-04-10",
-        "type": "Commit",
-        "title": "feat: academic homepage template",
-        "summary": "Authored by ronchy",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/1585672ba9b38a51eef7482a5dd2a0edb8189cd7"
+        "title": "Initial commit",
+        "summary": "Authored by d10227104-maker",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/d1240c5d93fa8b84366efbe3e65e0c6463e6084d"
       }
     ]
   },
   "zh": {
     "updates": [
       {
-        "date": "2026-04-20",
+        "date": "2026-09-21",
         "type": "提交",
-        "title": "chore: align node runtime to 24",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/d62558af994c2df311c4a84f20d406fd487432cc"
+        "title": "Update home page content for new user profile",
+        "summary": "由 d10227104-maker 提交",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/2f8756bae5db8309874d79ed65c2fec36798e5ff"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "提交",
-        "title": "docs: 优化文档",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/269de057f25d94414859f1d39fcbad023f904991"
+        "title": "Update profile.json with new user details",
+        "summary": "由 d10227104-maker 提交",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/70e12a90f68388d6cbec37c494bbbf86736fe27c"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "提交",
-        "title": "docs: add vercel link",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/e8d9b726e91ce71d0123de919164ab1f1e0cc3a7"
+        "title": "Change i18n mode to 'en-only' and set primaryLocale",
+        "summary": "由 d10227104-maker 提交",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/c0fbd4f79f460cf8c20707a14f2a0ee9d865c790"
       },
       {
-        "date": "2026-04-10",
+        "date": "2026-09-21",
         "type": "提交",
-        "title": "docs: 优化使用步骤",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/d41a14a15ec14dbb593b61a597e7b7bf01e9b178"
-      },
-      {
-        "date": "2026-04-10",
-        "type": "提交",
-        "title": "docs: 优化文档说明",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/59e7c32425f52a0acb204385bb2d22a232f724a7"
-      },
-      {
-        "date": "2026-04-10",
-        "type": "提交",
-        "title": "feat: academic homepage template",
-        "summary": "由 ronchy 提交",
-        "link": "https://github.com/Ronchy2000/Academic-Homepage-Template/commit/1585672ba9b38a51eef7482a5dd2a0edb8189cd7"
+        "title": "Initial commit",
+        "summary": "由 d10227104-maker 提交",
+        "link": "https://github.com/d10227104-maker/Yingying-Li-Psy-Academic-Homepage/commit/d1240c5d93fa8b84366efbe3e65e0c6463e6084d"
       }
     ]
   }
