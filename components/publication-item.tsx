@@ -14,13 +14,15 @@ const TYPE_LABELS: Record<Locale, Record<PublicationEntry["type"], string>> = {
     C: "Conference",
     J: "Journal",
     P: "Patent",
-    S: "In Submission"
+    S: "Under Review",
+    T: "Thesis"
   },
   zh: {
     C: "会议",
     J: "期刊",
     P: "专利",
-    S: "投稿中"
+    S: "投稿中",
+    T: "学位论文"
   }
 };
 
@@ -54,6 +56,11 @@ export function PublicationItem({ item, locale = "en" }: PublicationItemProps) {
             <Tag key={tag} label={tag} />
           ))}
         </div>
+      ) : null}
+      {item.poster ? (
+        <a href={item.poster} target="_blank" rel="noopener noreferrer" className="block max-w-2xl" aria-label={`View full-size poster: ${item.title}`}>
+          <img src={item.poster} alt={`Conference poster: ${item.title}`} width={2107} height={1490} loading="lazy" className="h-auto w-full rounded-xl border border-slate-200 dark:border-slate-700" />
+        </a>
       ) : null}
       {item.links?.length ? (
         <div className="flex flex-wrap gap-3 text-sm font-medium">

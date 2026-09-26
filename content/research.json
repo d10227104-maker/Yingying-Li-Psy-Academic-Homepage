@@ -1,130 +1,186 @@
 {
-  "_meta": {
-    "description": "Research interests and experience timeline. Interests feed the Research page; experiences populate the detailed narrative cards.",
-    "fields": {
-      "interests": "Array of { title, description } cards",
-      "experiences": "Array of { title, period, role, advisor, funding, summary, bullets, tags }"
-    }
-  },
   "en": {
     "interests": [
       {
-        "title": "Embodied AI Systems",
-        "description": "Integrating perception, planning, and control in long-horizon physical tasks."
+        "title": "Psychological Interventions & Psychotherapy",
+        "description": "How and for whom psychological support produces meaningful change, including psychotherapy process and outcomes and scalable mental health programs."
       },
       {
-        "title": "Robot Learning",
-        "description": "Sample-efficient policy learning for manipulation, navigation, and adaptation."
+        "title": "Self-Concept, Self-Esteem & Socioemotional Development",
+        "description": "Developmental patterns in self-perception, emotion regulation, sleep, and well-being, with an interest in emerging adulthood."
       },
       {
-        "title": "Human-Robot Collaboration",
-        "description": "Interfaces and autonomy strategies for safe, interpretable teamwork."
+        "title": "Longitudinal & Person-Centered Methods",
+        "description": "Understanding individual pathways through growth models, latent profiles and transitions, and multi-informant longitudinal data."
       },
       {
-        "title": "Edge Deployment",
-        "description": "Moving modern autonomy pipelines onto real devices with tight compute budgets."
+        "title": "Multicultural Adjustment & Lived Experience",
+        "description": "How cultural, relational, and institutional contexts shape adjustment, identity, and psychological needs; informed by qualitative and mixed-method research."
       }
     ],
     "experiences": [
       {
-        "title": "Adaptive Mobile Manipulation for Cluttered Labs",
-        "period": "2025 – Present",
-        "role": "Lead Student Researcher",
-        "advisor": "Prof. Lina Zhao",
-        "funding": "Lab Seed Grant",
-        "summary": "Building perception-driven manipulation policies that remain stable under shifting layouts and sparse demonstrations.",
+        "title": "Person-Centered Reanalysis of Longitudinal Self-Concept Data",
+        "period": "2026.08 – Present",
+        "role": "Researcher & Data Analyst | Independent Research Project",
+        "summary": "Secondary reanalysis of the school-based SEL dataset used in my master’s thesis at National Taiwan University.",
         "bullets": [
-          "Combined language-conditioned task prompts with vision-based affordance maps.",
-          "Reduced reset time by introducing reusable evaluation scenes and scripted calibration checks."
+          "Applying LPA across waves to identify heterogeneous scholastic and social self-concept profiles, and LTA to examine their stability and transitions.",
+          "Using BCH distal outcome analyses to compare global self-worth across profiles. These analyses are ongoing."
         ],
-        "tags": ["Manipulation", "Vision-Language", "Robotics"]
+        "tags": [
+          "LPA",
+          "LTA",
+          "Self-Concept",
+          "SEL"
+        ]
       },
       {
-        "title": "Multi-Robot Inspection in Semi-Structured Environments",
-        "period": "2024 – 2025",
-        "role": "Research Engineer",
-        "advisor": "Dr. Aaron Wu",
-        "funding": "Industry Collaboration",
-        "summary": "Designed coordination logic for heterogeneous robots performing inspection rounds across changing indoor facilities.",
+        "title": "Food Sharing, Self-Presentation, and Identity Construction on Social Media",
+        "period": "2025.08",
+        "role": "Researcher & Group Presenter | Shanghai Normal University",
+        "summary": "Digital ethnographic research during the “Go to the Field” summer training camp on food practices, relationships, identity, and transitions into adult roles.",
         "bullets": [
-          "Implemented map-sharing and fallback routing for intermittent connectivity.",
-          "Benchmarked task completion under degraded sensing and delayed communication."
+          "Contributed to a group study synthesizing interviews with 64 young adults and presented the final group findings.",
+          "Conducted an individual mixed-method study with 14 participants aged 18–35, using interviews and photo-elicitation.",
+          "Examined platform-specific self-presentation, relational meaning, and autobiographical memory. An exploratory self-esteem analysis with nine participants showed a non-significant pre–post change."
         ],
-        "tags": ["Multi-Robot", "Inspection", "Autonomy"]
+        "tags": [
+          "Digital Ethnography",
+          "Emerging Adulthood",
+          "Identity"
+        ]
       },
       {
-        "title": "Learning-Based Navigation Stack for Service Robots",
-        "period": "2023 – 2024",
-        "role": "Graduate Research Assistant",
-        "advisor": "Prof. Lina Zhao",
-        "funding": "Graduate Fellowship",
-        "summary": "Explored hybrid navigation pipelines that blend classical planners with learned scene priors.",
+        "title": "Trauma-Informed, Recovery-Oriented Care for Women",
+        "period": "2022.09 – 2023.09",
+        "role": "Research Assistant & Group Co-Leader | National Taiwan University, Department of Social Work",
+        "summary": "Evaluation of a localized Trauma Recovery and Empowerment Model (TREM)-based group intervention for women with substance-use and trauma histories.",
         "bullets": [
-          "Added safety envelopes around low-confidence detections in crowded hallways.",
-          "Improved recovery behavior after localization loss through state-aware replanning."
+          "Co-facilitated a 12-session program in a community addiction treatment center and Taoyuan Women’s Prison.",
+          "Contributed to a mixed-method longitudinal study with 69 intervention and 40 comparison participants, assessed before and after treatment and at 3-, 6-, and 10-month follow-ups.",
+          "Integrated standardized outcomes with in-depth interviews and structured field observations."
         ],
-        "tags": ["Navigation", "Learning", "Deployment"]
-      }
-    ]
-  },
-  "zh": {
-    "interests": [
-      {
-        "title": "具身智能系统",
-        "description": "将感知、规划与控制统一到长时程物理任务中，提升真实环境下的执行可靠性。"
+        "tags": [
+          "Trauma-Informed Care",
+          "Mixed Methods",
+          "Intervention"
+        ],
+        "advisor": "Prof. Hui-Ching Wu",
+        "funding": "NSTC 110-2410-H-002-135-SS2"
       },
       {
-        "title": "机器人学习",
-        "description": "关注操控、导航与自适应任务中的高样本效率学习方法。"
-      },
-      {
-        "title": "人机协作",
-        "description": "研究可解释、安全且具备协作意识的交互与自治策略。"
-      },
-      {
-        "title": "边缘部署",
-        "description": "将现代自主系统能力压缩到算力受限的真实设备中。"
-      }
-    ],
-    "experiences": [
-      {
-        "title": "面向实验室复杂场景的自适应移动操控",
-        "period": "2025 – 至今",
-        "role": "学生负责人",
-        "advisor": "导师：赵琳教授",
-        "funding": "实验室种子基金",
-        "summary": "构建由感知驱动的移动操控策略，使系统在布局频繁变化和示例稀缺时仍保持稳定表现。",
+        "title": "Mindfulness and Photo-Diary Interventions for University Students",
+        "period": "2021.07 – 2022.09",
+        "role": "Intervention Designer & Data Analyst | Guangzhou College of Commerce",
+        "summary": "Designed and implemented mental health programs combining mindfulness, photography, reflective writing, experiential activities, and psychoeducation.",
         "bullets": [
-          "结合语言条件任务提示与视觉可供性地图进行动作生成。",
-          "通过可复用评测场景和脚本化标定流程降低实验重置成本。"
+          "Developed the “21-Day Soul Camera” photo-diary program, engaging more than 800 faculty members and students.",
+          "Led the “Mindfulness Journey” program with 1,001 participants.",
+          "Collected pre–post outcomes and applied repeated-measures analyses and estimated marginal means to examine change."
         ],
-        "tags": ["操控", "视觉语言", "机器人"]
+        "tags": [
+          "Mindfulness",
+          "Photo-Diary",
+          "Program Evaluation"
+        ]
       },
       {
-        "title": "半结构化环境中的多机器人巡检",
-        "period": "2024 – 2025",
-        "role": "研究工程师",
-        "advisor": "合作导师：吴安然博士",
-        "funding": "产学合作项目",
-        "summary": "为异构机器人设计协同巡检逻辑，以适应设施环境持续变化和不稳定通信条件。",
+        "title": "Socioemotional Development and School-Based SEL in Preadolescence",
+        "period": "2018.06 – 2021.06",
+        "role": "Research Assistant & Data Analyst | National Taiwan University, Laboratory of Socioemotional Development",
+        "summary": "A two-year, six-wave study of developmental trajectories and differential effects of a school-based social-emotional learning curriculum.",
         "bullets": [
-          "实现地图共享与断连回退路径策略。",
-          "系统评估感知退化和通信延迟下的任务完成率。"
+          "Led management and cleaning of multi-informant data involving more than 2,000 students, parents, and teachers.",
+          "Applied ALT and multi-group ALT to four-wave self-concept and self-esteem data, alongside latent-variable and longitudinal analyses.",
+          "Developed a coding system for open-ended problem-solving responses, trained undergraduate coders, and assessed inter-rater reliability.",
+          "This work formed the basis of my master’s thesis and a first-author presentation at the 2019 ENSEC Conference."
         ],
-        "tags": ["多机器人", "巡检", "自主系统"]
+        "tags": [
+          "SEL",
+          "Longitudinal Modeling",
+          "Self-Esteem"
+        ],
+        "advisor": "Prof. Keng-Ling Lay",
+        "funding": "MOST 106-2410-H-002-078-SSS; MOST 107-2410-H-002-121-SSS"
       },
       {
-        "title": "服务机器人学习型导航系统",
-        "period": "2023 – 2024",
-        "role": "研究助理",
-        "advisor": "导师：赵琳教授",
-        "funding": "研究生奖学金",
-        "summary": "探索结合经典规划器与学习先验的混合式导航系统。",
+        "title": "Culturally Adapted SEL for School-Age Children in Beijing",
+        "period": "2018.02 – 2019.02",
+        "role": "Research Assistant & Data Analyst | National Taiwan University",
+        "summary": "Multi-school evaluation of a culturally adapted SEL curriculum with fourth-, fifth-, and seventh-grade students.",
         "bullets": [
-          "在拥挤走廊场景中为低置信度感知结果加入安全缓冲策略。",
-          "通过状态感知重规划改进定位丢失后的恢复行为。"
+          "Analyzed student and parent data from a two-year, five-wave study of emotional intelligence.",
+          "Used ANCOVA, hierarchical regression, and moderation analyses to examine intervention-related gains, parenting, and parent–child attachment.",
+          "Observed heterogeneous effects across grades, schools, and reporters."
         ],
-        "tags": ["导航", "学习", "部署"]
+        "tags": [
+          "Cultural Adaptation",
+          "Emotion Regulation",
+          "Longitudinal Research"
+        ],
+        "advisor": "Prof. Keng-Ling Lay"
+      },
+      {
+        "title": "Maternal Beliefs and Preschoolers’ Motivational Choices",
+        "period": "2018.02 – 2018.06",
+        "role": "Course Research Project | National Taiwan University",
+        "summary": "Examined maternal beliefs, achievement-goal orientations, and children’s choices in a challenging task context.",
+        "bullets": [
+          "Prepared questionnaire and behavioral-task data from 77 preschoolers and their mothers.",
+          "Conducted correlation and regression analyses using maternal questionnaires and the Finding Where’s Rabbit iPad visual-search task."
+        ],
+        "tags": [
+          "Developmental Psychology",
+          "Motivation"
+        ],
+        "advisor": "Prof. Keng-Ling Lay"
+      },
+      {
+        "title": "Visitor Behavior and Educational Effects in a Safari Park",
+        "period": "2017.02 – 2017.05",
+        "role": "Undergraduate Thesis Researcher | Sun Yat-sen University",
+        "summary": "Mixed-methods thesis on visitor behavior, viewing preferences, and educational experiences.",
+        "bullets": [
+          "Observed 507 visitor groups across six animal exhibits; combined behavioral and participant observation, interviews, and questionnaires.",
+          "Applied hierarchical regression, contingency analyses, and Mann–Whitney U tests in SPSS."
+        ],
+        "tags": [
+          "Mixed Methods",
+          "Behavioral Observation"
+        ],
+        "advisor": "Prof. Peng Zhang"
+      },
+      {
+        "title": "Household Labor and Gender-Role Expectations in Hakka Families",
+        "period": "2016",
+        "role": "Student Researcher | Sun Yat-sen University",
+        "summary": "Qualitative case study of modernization, urbanization, and family labor allocation.",
+        "bullets": [
+          "Used participant observation and in-depth interviews, comparing cases across generations and family types.",
+          "Examined how gender-role expectations are negotiated and transmitted through everyday interactions."
+        ],
+        "tags": [
+          "Qualitative Research",
+          "Family Processes"
+        ],
+        "advisor": "Prof. Xunxiang Xia"
+      },
+      {
+        "title": "Education and Adolescent Development in Rural Yao Communities",
+        "period": "2015.07 – 2015.08",
+        "role": "Field Research Intern | Sun Yat-sen University",
+        "summary": "Month-long anthropological fieldwork in Gongcheng Yao Autonomous County on rural education and adolescent development.",
+        "bullets": [
+          "Combined observation, interviews, and psychological measures to examine caregiving, migration, schooling, and adjustment.",
+          "Produced a nearly 30,000-character field report on personality development and educational change."
+        ],
+        "tags": [
+          "Ethnography",
+          "Adolescent Development",
+          "Cultural Context"
+        ],
+        "advisor": "Prof. Tongxue Tan"
       }
     ]
   }

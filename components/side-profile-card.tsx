@@ -29,7 +29,7 @@ export function SideProfileCard({ profile, locale = "en", avatarSrc = "/images/p
             alt={profile.name}
             fill
             priority
-            className="object-cover object-top"
+            className="object-cover object-[50%_65%]"
             sizes="(min-width: 1024px) 200px, 160px"
           />
         </div>

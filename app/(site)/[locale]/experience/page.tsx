@@ -4,6 +4,7 @@ import { Section } from "@/components/section";
 import { Timeline } from "@/components/timeline";
 import { getExperiencePageCopy, getTimelineContent } from "@/lib/content";
 import { normalizeLocale } from "@/lib/locale";
+import cvDetails from "@/content/cv-details.json";
 
 type PageProps = {
   params: { locale: string } | Promise<{ locale: string }>;
@@ -27,6 +28,10 @@ export default async function ExperiencePage({ params }: PageProps) {
         eyebrow={copy.experience.eyebrow}
       >
         <Timeline items={experience} />
+      </Section>
+
+      <Section title="Teaching Experience" eyebrow="Teaching">
+        <Timeline items={cvDetails.en.teaching} />
       </Section>
 
       <Section

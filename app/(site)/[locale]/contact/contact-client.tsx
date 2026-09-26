@@ -84,7 +84,7 @@ function formatGithubLabel(href: string, locale: Locale) {
 }
 
 export function ContactClient({ locale, profile, copy }: ContactClientProps) {
-  const contactEmail = useMemo(() => decodeEmail(ENCODED_CONTACT_EMAIL.trim()), []);
+  const contactEmail = useMemo(() => decodeEmail(ENCODED_CONTACT_EMAIL.trim()) || profile.social.find(item => item.href.startsWith("mailto:"))?.href.slice(7) || "", [profile.social]);
   const obfuscatedEmail = useMemo(
     () => maskEmail(contactEmail, locale === "zh" ? "尚未配置" : "Not configured"),
     [contactEmail, locale]
@@ -183,7 +183,7 @@ export function ContactClient({ locale, profile, copy }: ContactClientProps) {
                 {githubLabel}
               </a>
             </p>
-            <p>
+            {scholarLink !== "#" && <p>
               {copy.items.scholar}:{" "}
               <a
                 href={scholarLink}
@@ -193,7 +193,7 @@ export function ContactClient({ locale, profile, copy }: ContactClientProps) {
               >
                 {copy.scholarLabel}
               </a>
-            </p>
+            </p>}
             <p>
               {copy.items.location}: {profile.location}
             </p>

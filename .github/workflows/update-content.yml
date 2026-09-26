@@ -1,8 +1,6 @@
 name: Refresh Content Data
 
 on:
-  schedule:
-    - cron: "30 23 * * *" # daily at 23:30 UTC (Beijing 7:30 AM, considering GitHub queue delay)
   workflow_dispatch:
 
 permissions:

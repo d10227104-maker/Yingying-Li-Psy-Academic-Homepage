@@ -72,7 +72,7 @@ export function SiteHeader({ navItems, profileName, currentLocale = "en" }: Site
           >
             <span className="whitespace-nowrap">{profileName ?? "Academic Homepage"}</span>
           </Link>
-          <nav className="hidden items-center gap-3 md:flex">
+          <nav className="hidden items-center gap-3 xl:flex">
             {navItems.map((item) => renderLink(item, "desktop"))}
           </nav>
         </div>
@@ -114,7 +114,7 @@ export function SiteHeader({ navItems, profileName, currentLocale = "en" }: Site
           <ThemeToggle variant="subtle" />
         </div>
       </div>
-      <nav className="flex items-center gap-2 overflow-x-auto border-t border-slate-200 px-4 py-2 scrollbar-hide md:hidden dark:border-slate-800">
+      <nav className="flex items-center gap-2 overflow-x-auto border-t border-slate-200 px-4 py-2 scrollbar-hide xl:hidden dark:border-slate-800">
         {navItems.map((item) => renderLink(item, "mobile"))}
       </nav>
     </header>

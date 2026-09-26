@@ -15,10 +15,10 @@ export function SiteFooter({ lastUpdated, locale = "en" }: SiteFooterProps) {
   const repositoryUrl = process.env.NEXT_PUBLIC_REPOSITORY_URL;
   const copy = {
     en: {
-      copyright: `© ${year} Academic Homepage Template.`,
+      copyright: `© ${year} Yingying Li.`,
       viewSource: "View source on GitHub",
       lastUpdated: "Last updated:",
-      tagline: "Built for researchers"
+      tagline: "Counseling Psychology"
     },
     zh: {
       copyright: `© ${year} 学术主页模板。`,

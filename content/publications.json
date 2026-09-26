@@ -1,110 +1,82 @@
 {
-  "_meta": {
-    "description": "Publications and patents with metadata for the Publications page.",
-    "fields": {
-      "entries": "Array of publication items",
-      "PublicationItem": {
-        "id": "Short identifier such as C.1",
-        "type": "C|J|P|S",
-        "title": "Title string",
-        "authors": "Author list, highlight yourself with * if needed",
-        "venue": "Conference, journal, or patent information",
-        "year": "Year string",
-        "tags": "Array of topic tags",
-        "links": "Array of { label, href }",
-        "notes": "Optional short note"
-      }
-    }
-  },
   "en": {
     "entries": [
       {
-        "id": "J.1",
-        "type": "J",
-        "title": "Learning Robust Recovery Policies for Long-Horizon Mobile Manipulation",
-        "authors": "Alex Chen*, Lina Zhao, Aaron Wu",
-        "venue": "IEEE Robotics and Automation Letters",
-        "year": "2026",
-        "tags": ["Robot Learning", "Manipulation"],
-        "links": [{ "label": "Preprint", "href": "https://arxiv.org/abs/2401.00001" }],
-        "notes": "Student first author"
-      },
-      {
-        "id": "C.1",
-        "type": "C",
-        "title": "Task-Aware Coordination for Heterogeneous Inspection Robots",
-        "authors": "Alex Chen, Priya Nair, Aaron Wu",
-        "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
-        "year": "2025",
-        "tags": ["Multi-Robot", "Inspection"],
-        "links": [{ "label": "Project", "href": "https://example.com/projects/inspection" }]
-      },
-      {
-        "id": "S.1",
+        "id": "Manuscript",
         "type": "S",
-        "title": "Language-Guided Affordance Models for Adaptive Lab Assistance",
-        "authors": "Alex Chen*, Lina Zhao",
-        "venue": "Under review",
-        "year": "2026",
-        "tags": ["Embodied AI", "Vision-Language"],
-        "links": [{ "label": "Draft", "href": "#" }],
-        "notes": "Replace with your own manuscript status"
+        "title": "Do parental cognitions affect children’s mental health? An empirical study in central China based on theories of intergenerational transmission and social learning.",
+        "authors": "Li, Y., & Tan, R.",
+        "venue": "Journal of Child and Family Studies — manuscript under review",
+        "year": "Under review",
+        "tags": [
+          "Parenting",
+          "Mental Health"
+        ],
+        "notes": "Under review; not an accepted or published article"
       },
       {
-        "id": "P.1",
-        "type": "P",
-        "title": "Method for Cooperative Recovery Planning in Mobile Manipulation Systems",
-        "authors": "Lina Zhao, Alex Chen, Aaron Wu",
-        "venue": "Example patent application information",
-        "year": "2025",
-        "tags": ["Patent", "Planning"],
-        "links": [{ "label": "Patent", "href": "#" }]
-      }
-    ]
-  },
-  "zh": {
-    "entries": [
-      {
-        "id": "J.1",
-        "type": "J",
-        "title": "面向长时程移动操控的鲁棒恢复策略学习",
-        "authors": "陈明远*, 赵琳, 吴安然",
-        "venue": "IEEE Robotics and Automation Letters",
-        "year": "2026",
-        "tags": ["机器人学习", "操控"],
-        "links": [{ "label": "预印本", "href": "https://arxiv.org/abs/2401.00001" }],
-        "notes": "学生一作"
-      },
-      {
-        "id": "C.1",
+        "id": "Presentation-2022",
         "type": "C",
-        "title": "面向异构巡检机器人的任务感知协同方法",
-        "authors": "陈明远, Priya Nair, 吴安然",
-        "venue": "IEEE International Conference on Robotics and Automation (ICRA)",
-        "year": "2025",
-        "tags": ["多机器人", "巡检"],
-        "links": [{ "label": "项目页", "href": "https://example.com/projects/inspection" }]
+        "title": "Care and Support for “Swing Players”: Preliminary Development of a CBT- and IPSRT-Based Therapeutic Group for Individuals with Bipolar I Disorder.",
+        "authors": "Li, Y., Xue, R., He, X., & Guo, Z.",
+        "venue": "Mental Health Social Work Poster Exhibition, Department of Social Work, National Taiwan University, Taipei, Taiwan",
+        "year": "2022",
+        "notes": "Poster presentation, December"
       },
       {
-        "id": "S.1",
-        "type": "S",
-        "title": "面向实验室协助任务的语言引导可供性模型",
-        "authors": "陈明远*, 赵琳",
-        "venue": "审稿中",
-        "year": "2026",
-        "tags": ["具身智能", "视觉语言"],
-        "links": [{ "label": "草稿", "href": "#" }],
-        "notes": "请替换为你自己的论文状态"
+        "id": "Presentation-2019-1",
+        "type": "C",
+        "title": "Differential SEL effect for children with diverse initial states: I. The self-concept curriculum designed by Taiwan Happiness Village Association.",
+        "authors": "Li, Y., Lay, K. L., Lin, C. Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
+        "venue": "7th ENSEC Conference, Budapest, Hungary (August); 7th NTU Psychology Department Research Exchange and 2019 NTU–Peking University–Chinese University of Hong Kong Psychology Academic Exchange, Taipei, Taiwan (May)",
+        "year": "2019",
+        "notes": "Poster presentations",
+        "poster": "/posters/ensec-2019-self-concept.png",
+        "links": [
+          {
+            "label": "View full-size poster",
+            "href": "/posters/ensec-2019-self-concept.png"
+          }
+        ]
       },
       {
-        "id": "P.1",
-        "type": "P",
-        "title": "一种面向移动操控系统的协同恢复规划方法",
-        "authors": "赵琳, 陈明远, 吴安然",
-        "venue": "示例专利申请信息",
-        "year": "2025",
-        "tags": ["专利", "规划"],
-        "links": [{ "label": "专利", "href": "#" }]
+        "id": "Presentation-2019-2",
+        "type": "C",
+        "title": "When an SEL program is implemented without community partnership: Differential SEL effect for children with diverse social economic status.",
+        "authors": "Lin, C. Y., Lay, K. L., Li, Y., Yang, L. J., & Chen, H. T.",
+        "venue": "7th ENSEC Conference, Budapest, Hungary",
+        "year": "2019",
+        "notes": "Poster presentation, August",
+        "poster": "/posters/ensec-2019-community-partnership.png",
+        "links": [
+          {
+            "label": "View full-size poster",
+            "href": "/posters/ensec-2019-community-partnership.png"
+          }
+        ]
+      },
+      {
+        "id": "Presentation-2019-3",
+        "type": "C",
+        "title": "Differential SEL effect for children with diverse initial states II: The communication-skill curriculum designed by Taiwan Happiness Village Association.",
+        "authors": "Cheng, C., Lay, K. L., Lin, C. Y., Li, Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
+        "venue": "7th ENSEC Conference, Budapest, Hungary",
+        "year": "2019",
+        "notes": "Poster presentation, August"
+      },
+      {
+        "id": "Master’s-Thesis",
+        "type": "T",
+        "title": "The Intervention Effect of the Self-Concept Curriculum Designed by Taiwan Happiness Village Association on Children with Diverse Initial States.",
+        "authors": "Li, Y.",
+        "venue": "Master’s thesis, National Taiwan University",
+        "year": "2021",
+        "links": [
+          {
+            "label": "Thesis DOI",
+            "href": "https://doi.org/10.6342/NTU202104178"
+          }
+        ]
       }
     ]
   }

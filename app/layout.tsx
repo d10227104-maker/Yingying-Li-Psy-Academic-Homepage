@@ -11,27 +11,26 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Academic Homepage Template",
+  title: "Yingying Li | Psychology & Intervention Research",
   description:
-    "Bilingual academic homepage template for researchers, students, and labs.",
+    "Yingying Li: psychological counselor and researcher in Leuven, Belgium. Intervention studies, longitudinal research, self-concept, self-esteem, and psychotherapy process and outcomes.",
   icons: {
     icon: "/icon.svg",
     shortcut: "/icon.svg"
   },
   openGraph: {
-    title: "Academic Homepage Template",
+    title: "Yingying Li | Psychology & Intervention Research",
     description:
-      "Bilingual academic homepage template for researchers, students, and labs.",
-    url: "https://example.com",
-    siteName: "Academic Homepage Template",
+      "Yingying Li: psychological counselor and researcher in Leuven, Belgium. Intervention studies, longitudinal research, self-concept, self-esteem, and psychotherapy process and outcomes.",
+    siteName: "Yingying Li | Psychology & Intervention Research",
     locale: "en_US",
     type: "website"
   },
   twitter: {
     card: "summary_large_image",
-    title: "Academic Homepage Template",
+    title: "Yingying Li | Psychology & Intervention Research",
     description:
-      "Bilingual academic homepage template for researchers, students, and labs."
+      "Yingying Li: psychological counselor and researcher in Leuven, Belgium. Intervention studies, longitudinal research, self-concept, self-esteem, and psychotherapy process and outcomes."
   }
 };
 

@@ -26,7 +26,7 @@ export default async function HomePage({ params }: PageProps) {
   const profile = getProfileContent()[locale];
   const highlightProjects = getProjectsContent()[locale].groups.flatMap((group) => group.items).slice(0, 4);
   const publications = [...getPublicationsContent()[locale].entries]
-    .sort((a, b) => Number(b.year) - Number(a.year))
+    .sort((a, b) => (b.type === "S" ? 9999 : Number(b.year) || 0) - (a.type === "S" ? 9999 : Number(a.year) || 0))
     .slice(0, 2);
   const updates = getUpdatesContent()[locale].updates.slice(0, 7);
   const awards = getAwardsContent()[locale].awards.slice(0, 6);

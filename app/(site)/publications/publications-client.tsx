@@ -10,7 +10,7 @@ import type { PublicationEntry, PublicationsPageCopy } from "@/lib/content-types
 
 type Locale = "en" | "zh";
 
-const TYPE_OPTIONS = ["All", "C", "J", "P", "S"] as const;
+const TYPE_OPTIONS = ["All", "C", "J", "P", "S", "T"] as const;
 type TypeFilter = typeof TYPE_OPTIONS[number];
 
 type PublicationsClientProps = {

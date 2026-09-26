@@ -6,6 +6,7 @@ import { Table } from "@/components/table";
 import { Timeline } from "@/components/timeline";
 import { getAwardsContent, getCVPageCopy, getProfileContent, getTimelineContent } from "@/lib/content";
 import { normalizeLocale } from "@/lib/locale";
+import cvDetails from "@/content/cv-details.json";
 
 type PageProps = {
   params: { locale: string } | Promise<{ locale: string }>;
@@ -68,6 +69,14 @@ export default async function CVPage({ params }: PageProps) {
 
       <Section title={t.honors.title} eyebrow={t.honors.eyebrow}>
         <Table headers={honorsHeaders} rows={awards.map((award) => [award.year, award.title, award.issuer])} />
+      </Section>
+
+      <Section title="Teaching Experience" eyebrow="Teaching">
+        <Timeline items={cvDetails.en.teaching} />
+      </Section>
+
+      <Section title="Professional Registration & Credentials" eyebrow="Credentials">
+        <Timeline items={cvDetails.en.credentials} />
       </Section>
 
       <Section title={t.skills.title} eyebrow={t.skills.eyebrow}>

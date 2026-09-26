@@ -1,0 +1,58 @@
+{
+  "en": {
+    "teaching": [
+      {
+        "title": "Guest Lecturer | Fu Jen Catholic University",
+        "period": "2023.05",
+        "location": "Department of Clinical Psychology, New Taipei City, Taiwan",
+        "details": [
+          "Delivered an invited lecture on qualitative and mixed-methods research.",
+          "Covered reflexivity, triangulation, validity, ethnography, phenomenology, case studies, grounded theory, and mixed-method designs."
+        ]
+      },
+      {
+        "title": "Psychology Lecturer | Guangzhou College of Commerce",
+        "period": "2021.09 – 2022.08",
+        "location": "Guangzhou, China",
+        "details": [
+          "Developed and delivered a two-semester mental health education course to approximately 700 undergraduates.",
+          "Covered mental health literacy, emotion regulation, stress management, and interpersonal skills. Average student satisfaction: 4.71/5."
+        ]
+      },
+      {
+        "title": "Teaching Assistant | National Taiwan University",
+        "period": "2018.02 – 2019.01",
+        "location": "Taipei, Taiwan",
+        "details": [
+          "Socioemotional Development; Psychology of Adolescence."
+        ]
+      }
+    ],
+    "credentials": [
+      {
+        "title": "Registered Clinical and Counseling Psychologist",
+        "period": "2024.01 – 2026.12",
+        "location": "Chinese Psychological Society, China",
+        "details": [
+          "Clinical and Counseling Psychology Registration System. Registration No. X-24-276."
+        ]
+      },
+      {
+        "title": "Psychological Therapist, Level I",
+        "period": "Valid indefinitely",
+        "location": "National Professional Credential, China",
+        "details": [
+          "Credential as listed in the CV."
+        ]
+      },
+      {
+        "title": "Social Worker, Level I",
+        "period": "Valid indefinitely",
+        "location": "National Professional Credential, China",
+        "details": [
+          "Credential as listed in the CV."
+        ]
+      }
+    ]
+  }
+}

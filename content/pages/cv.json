@@ -1,32 +1,83 @@
 {
-  "_meta": {
-    "description": "Copy and labels for the CV page."
-  },
   "en": {
     "intro": {
       "title": "Curriculum Vitae",
-      "description": "Provide a downloadable PDF plus a web-readable overview. Replace the placeholder asset under /public/files.",
+      "description": "Education, counseling and research experience, teaching, credentials, and methods. Download the full CV, updated September 23, 2026.",
       "eyebrow": "Overview",
       "download": "Download PDF",
       "contactLabel": "Contact",
-      "contactAction": "Reveal email",
+      "contactAction": "Contact me",
       "locationLabel": "Location"
     },
-    "education": { "title": "Education", "eyebrow": "CV" },
-    "experience": { "title": "Professional Experience", "eyebrow": "CV" },
+    "education": {
+      "title": "Education",
+      "eyebrow": "CV"
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "eyebrow": "CV"
+    },
     "honors": {
       "title": "Selected Honors",
       "eyebrow": "Recognition",
-      "headers": ["Year", "Award", "Issuer"]
+      "headers": [
+        "Year",
+        "Award",
+        "Issuer"
+      ]
     },
     "skills": {
-      "title": "Skills & Coursework",
+      "title": "Methods, Languages & Technical Skills",
       "eyebrow": "CV",
-      "headers": ["Category", "Items"],
+      "headers": [
+        "Category",
+        "Items"
+      ],
       "rows": [
-        ["Programming", "Python, TypeScript, C++"],
-        ["Frameworks", "PyTorch, ROS 2, Next.js"],
-        ["Topics", "Robot Learning, Planning, Systems"]
+        [
+          "Data Processing",
+          "Variable coding, cleaning, analysis-ready datasets, analytic documentation, and missing data"
+        ],
+        [
+          "Reliability",
+          "Coding-system development; Cohen’s kappa; test–retest and internal consistency analysis"
+        ],
+        [
+          "Statistics",
+          "Descriptive statistics, correlations, t-tests, ANOVA, ANCOVA, nonparametric tests, effect sizes, regression, and moderation"
+        ],
+        [
+          "Latent Variable Models",
+          "EFA, CFA, and SEM"
+        ],
+        [
+          "Longitudinal & Person-Centered Models",
+          "LGCM, ALT, multi-group ALT, LPA, LTA, and BCH distal outcome analysis"
+        ],
+        [
+          "Qualitative & Mixed Methods",
+          "Ethnography, digital ethnography, observation, interviews, photo-elicitation, case analysis, and thematic interpretation"
+        ],
+        [
+          "Intervention Evaluation",
+          "Pre–post designs, longitudinal evaluation, repeated-measures analysis, and multi-informant assessment"
+        ],
+        [
+          "Training",
+          "Workshop-based training in cross-cultural research and longitudinal developmental data analysis"
+        ],
+        [
+          "Statistical Software",
+          "SPSS, Mplus, SAS, R, and LISREL"
+        ],
+        [
+          "Languages",
+          "Mandarin Chinese, Cantonese, Hakka, and English"
+        ],
+        [
+          "English Proficiency",
+          "IELTS Academic: 7.5 overall (Listening 8.0, Reading 8.0, Writing 6.5, Speaking 7.0)"
+        ]
       ]
     },
     "links": {
@@ -34,40 +85,6 @@
       "eyebrow": "CV",
       "publications": "Publications overview",
       "projects": "Project portfolio"
-    }
-  },
-  "zh": {
-    "intro": {
-      "title": "个人简历",
-      "description": "提供 PDF 下载与网页概览视图。请将 /public/files 下的占位文件替换为你自己的简历。",
-      "eyebrow": "概览",
-      "download": "下载 PDF",
-      "contactLabel": "联系邮箱",
-      "contactAction": "点击显示邮箱",
-      "locationLabel": "常驻城市"
-    },
-    "education": { "title": "教育背景", "eyebrow": "简历" },
-    "experience": { "title": "实习 / 工作经历", "eyebrow": "简历" },
-    "honors": {
-      "title": "荣誉奖励",
-      "eyebrow": "荣誉",
-      "headers": ["年份", "奖项", "颁发机构"]
-    },
-    "skills": {
-      "title": "技能与课程",
-      "eyebrow": "简历",
-      "headers": ["类别", "内容"],
-      "rows": [
-        ["编程", "Python、TypeScript、C++"],
-        ["框架", "PyTorch、ROS 2、Next.js"],
-        ["方向", "机器人学习、规划、系统工程"]
-      ]
-    },
-    "links": {
-      "title": "更多链接",
-      "eyebrow": "简历",
-      "publications": "查看发表成果",
-      "projects": "浏览项目集锦"
     }
   }
 }
