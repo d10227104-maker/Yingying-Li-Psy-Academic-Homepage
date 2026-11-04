@@ -2,19 +2,64 @@
   "en": {
     "awards": [
       {
-        "title": "First Prize Scholarship, “Go to the Field” Digital Field Research Summer Training Camp",
+        "year": "2026.10",
+        "title": "Second Prize in Academic Paper Writing (National Round)",
+        "issuer": "Chinese Psychological Society",
+        "notes": "Beyond the Pressure–Accommodation Dichotomy: A Caregiver-Focused Digital Single-Session Intervention for School Refusal"
+      },
+      {
+        "year": "2026.10",
+        "title": "Conference Travel Support",
+        "issuer": "Forum on Adolescent Mental Health and Positive Development",
+        "notes": "RMB 1,000"
+      },
+      {
+        "year": "2025.09",
+        "title": "Recognition for Expert Contributions",
+        "issuer": "Tsinghua University HCI Lab",
+        "notes": "AICo"
+      },
+      {
+        "year": "2025.08",
+        "title": "First Prize Scholarship, “Go to the Field” Digital Field Research Camp",
         "issuer": "Shanghai Normal University",
-        "year": "2025.08"
+        "notes": "RMB 1,000"
       },
       {
-        "title": "Encouragement Scholarship",
-        "issuer": "National Taiwan University",
-        "year": "2024.03"
+        "year": "2023",
+        "title": "Taipei Guangdong Association Scholarship",
+        "issuer": "Taipei Guangdong Association",
+        "notes": "NT$10,000"
       },
       {
-        "title": "Xingang LIFE House Outstanding Volunteer",
+        "year": "2022",
+        "title": "Provincial First Prize in Group Counseling",
+        "issuer": "Guangdong",
+        "notes": "RMB 2,700"
+      },
+      {
+        "year": "2022",
+        "title": "Outstanding Student Organization Award",
+        "issuer": "Guangzhou College of Commerce",
+        "notes": "Faculty advisor"
+      },
+      {
+        "year": "2022",
+        "title": "Outstanding Contributor to Mental Health Education",
+        "issuer": "Liaoning Province",
+        "notes": ""
+      },
+      {
+        "year": "2015.12",
+        "title": "Outstanding Volunteer Award",
+        "issuer": "Xingang Social Work Station",
+        "notes": ""
+      },
+      {
+        "year": "2013",
+        "title": "Health Star Honor",
         "issuer": "Sun Yat-sen University",
-        "year": "2015.12"
+        "notes": ""
       }
     ]
   }

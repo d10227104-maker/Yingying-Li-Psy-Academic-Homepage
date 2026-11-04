@@ -2,12 +2,11 @@
   "en": {
     "education": [
       {
-        "title": "Ph.D. Coursework in Psychology | National Taiwan University",
+        "title": "Doctoral Studies in Psychology | National Taiwan University",
         "period": "2022.09 – 2023.09",
         "location": "Taipei, Taiwan",
         "details": [
-          "GPA: 4.26/4.30.",
-          "Minor: Big Data and Digital Assessment Program."
+          "Degree not completed. GPA: 4.26/4.30."
         ]
       },
       {
@@ -15,8 +14,8 @@
         "period": "2017.09 – 2021.06",
         "location": "Taipei, Taiwan",
         "details": [
-          "Laboratory of Socioemotional Development. GPA: 3.84/4.30.",
-          "Master’s thesis (A+): The Intervention Effect of the Self-Concept Curriculum Designed by Taiwan Happiness Village Association on Children with Diverse Initial States.",
+          "Advisor: Prof. Keng-Ling Lay. GPA: 3.84/4.30; master’s thesis grade: A+.",
+          "Additional program: Big Data and Digital Assessment Program.",
           "Thesis DOI: 10.6342/NTU202104178."
         ]
       },
@@ -25,69 +24,62 @@
         "period": "2013.08 – 2017.06",
         "location": "Guangzhou, China",
         "details": [
-          "Major GPA: 3.9/4.0.",
-          "Bachelor’s thesis (92/100): Visitor Behavior and Educational Effects in a Safari Park: A Mixed-Methods Study.",
-          "Undergraduate field research on education and adolescent development in rural Yao communities."
+          "Major GPA: 3.90/4.00."
         ]
       }
     ],
     "experience": [
       {
-        "title": "Psychological Counselor | Glowe Counseling Platform",
-        "period": "2022.09 – Present",
-        "location": "Online / Shenzhen, China",
-        "details": [
-          "Provide individual counseling for anxiety, depression, sleep difficulties, academic stress, relationships, and cross-cultural adjustment.",
-          "Cumulative experience across university and private-practice settings exceeds 1,500 counseling hours, with more than 250 hours of clinical supervision.",
-          "Receive ongoing supervision and case consultation."
-        ]
-      },
-      {
-        "title": "Volunteer Mental Health Helpline Counselor | Tsinghua University",
-        "period": "2023.10 – Present",
-        "location": "Beijing, China / Remote",
-        "details": [
-          "Provide emotional support and crisis intervention through the Wellbeing Public Welfare Hotline.",
-          "Training includes trauma-informed listening, suicide risk assessment, and active presence."
-        ]
-      },
-      {
-        "title": "Volunteer Group Facilitator | Independent Community Program",
-        "period": "2026.05",
+        "title": "Individual & Group Counselor | Chinese Students and Scholars Association of Leuven",
+        "period": "2025.10 – Present",
         "location": "Leuven, Belgium",
         "details": [
-          "Designed and facilitated Rooted & Blooming, a free self-exploration group for master’s and doctoral students.",
-          "Integrated mindfulness, botanical collage, photo-based reflection, OH cards, guided sharing, and life-review exercises.",
-          "Focused on academic stress, cross-cultural adjustment, relationships, and self-worth within a psychologically safe group setting."
+          "Provided 80+ hours of low-fee individual counseling.",
+          "Designed and facilitated two Rooted & Blooming single-session groups (24 participants) addressing stress, sleep, and perfectionism; satisfaction: 9.67/10."
         ]
       },
       {
-        "title": "Clinical Psychology Consultant | Tsinghua University",
-        "period": "2025.09 – 2026.01",
-        "location": "Beijing, China / Remote",
+        "title": "Psychological Counselor | Independent Practice, Glowe & Psybyond",
+        "period": "2024.11 – Present",
+        "location": "Online",
         "details": [
-          "Contributed clinical expertise to AI-assisted counseling and human–computer interaction research, including the AICo project.",
-          "Developed structured decision frameworks linking presenting concerns, assessment, psychotherapy strategies, and follow-up support."
+          "Provided 400+ counseling hours for adolescents, adults, and parents, with 120+ supervision hours.",
+          "Experience includes obsessive-compulsive concerns, health anxiety, identity, and school refusal, with structured risk assessment and referral."
         ]
       },
       {
-        "title": "Trainee Psychotherapist | Guangzhou Medical University",
-        "period": "2024.03 – 2024.05",
-        "location": "Affiliated Brain Hospital, Guangzhou, China",
+        "title": "Clinical Counseling Expert | Tsinghua University",
+        "period": "2025.05 – 2025.09",
+        "location": "Pervasive Computing & HCI Lab / Online",
         "details": [
-          "Rotated through psychosomatic medicine outpatient and inpatient units.",
-          "Participated in interdisciplinary case meetings and treatment planning; observed and assisted with integrated psychotherapy and pharmacotherapy cases."
+          "Contributed to AICo through three clinical decision trees covering 15 domains and 200+ actions.",
+          "Monitored live AI-assisted counseling and intervened when clinical correction or takeover was needed."
         ]
       },
       {
-        "title": "Mental Health Counselor | Guangzhou College of Commerce",
-        "period": "2021.07 – 2022.09",
+        "title": "Clinical Counseling Trainee | Affiliated Brain Hospital of Guangzhou Medical University",
+        "period": "2024.03 – 2024.04",
         "location": "Guangzhou, China",
         "details": [
-          "Provided individual counseling, assessment, and crisis support, including intervention with more than 20 high-risk cases.",
-          "Accumulated more than 500 individual counseling hours at the university counseling center.",
-          "Trained peer-support volunteers and advised the student mental health association.",
-          "Designed mindfulness and photo-diary programs; a photo-based group program received First Prize in a Guangdong Province college mental health competition."
+          "Completed 37 individual counseling hours and observed psychiatric outpatient and inpatient care."
+        ]
+      },
+      {
+        "title": "Volunteer Hotline Counselor | Tsinghua University",
+        "period": "2023.10 – 2024.03",
+        "location": "Online",
+        "details": [
+          "Completed ten training modules and provided 80+ hotline hours."
+        ]
+      },
+      {
+        "title": "Full-Time Psychological Counselor | Guangzhou College of Commerce",
+        "period": "2021.09 – 2022.08",
+        "location": "Guangzhou, China",
+        "details": [
+          "Designed 21-Day Photo Diary (800+ participants) and Mindfulness Journey (1,001 participants); a single-session group received a provincial First Prize.",
+          "Accumulated 557 counseling hours across university work and part-time online practice (October 2020–November 2024), with 130+ supervision hours.",
+          "Delivered assessment, crisis support, peer-helper training, and campus mental health outreach."
         ]
       }
     ]

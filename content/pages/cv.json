@@ -2,7 +2,7 @@
   "en": {
     "intro": {
       "title": "Curriculum Vitae",
-      "description": "Education, counseling and research experience, teaching, credentials, and methods. Download the full CV, updated September 23, 2026.",
+      "description": "Education, research, counseling, teaching, and professional credentials. Across settings: 1,070+ individual counseling hours, 80+ hotline hours, and 250+ supervision hours. Download the full CV, updated November 5, 2026.",
       "eyebrow": "Overview",
       "download": "Download PDF",
       "contactLabel": "Contact",
@@ -35,48 +35,28 @@
       ],
       "rows": [
         [
-          "Data Processing",
-          "Variable coding, cleaning, analysis-ready datasets, analytic documentation, and missing data"
-        ],
-        [
-          "Reliability",
-          "Coding-system development; Cohen’s kappa; test–retest and internal consistency analysis"
-        ],
-        [
-          "Statistics",
-          "Descriptive statistics, correlations, t-tests, ANOVA, ANCOVA, nonparametric tests, effect sizes, regression, and moderation"
-        ],
-        [
-          "Latent Variable Models",
-          "EFA, CFA, and SEM"
-        ],
-        [
-          "Longitudinal & Person-Centered Models",
-          "LGCM, ALT, multi-group ALT, LPA, LTA, and BCH distal outcome analysis"
+          "Research Methods",
+          "Intervention and program evaluation; longitudinal and pre–post designs"
         ],
         [
           "Qualitative & Mixed Methods",
-          "Ethnography, digital ethnography, observation, interviews, photo-elicitation, case analysis, and thematic interpretation"
+          "Ethnography, digital ethnography, participant observation, semi-structured and life-history interviews, photo-elicitation, and case analysis"
         ],
         [
-          "Intervention Evaluation",
-          "Pre–post designs, longitudinal evaluation, repeated-measures analysis, and multi-informant assessment"
+          "Statistics",
+          "Missing-data handling, reliability, ANOVA/ANCOVA, multiple and hierarchical regression, moderation, repeated measures, EFA, CFA, and SEM"
         ],
         [
-          "Training",
-          "Workshop-based training in cross-cultural research and longitudinal developmental data analysis"
+          "Longitudinal & Person-Centered Models",
+          "LGCM, ALT, RI-CLPM, multi-group models, LPA, LTA, BCH, and intensive longitudinal models with within-/between-person decomposition"
         ],
         [
-          "Statistical Software",
-          "SPSS, Mplus, SAS, R, and LISREL"
+          "Software",
+          "SPSS, Mplus, SAS, R, Python, LaTeX, E-Prime, and LISREL"
         ],
         [
           "Languages",
-          "Mandarin Chinese, Cantonese, Hakka, and English"
-        ],
-        [
-          "English Proficiency",
-          "IELTS Academic: 7.5 overall (Listening 8.0, Reading 8.0, Writing 6.5, Speaking 7.0)"
+          "Mandarin Chinese, Cantonese, and Hakka (native); English (advanced proficiency)"
         ]
       ]
     },

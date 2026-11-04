@@ -2,25 +2,25 @@
   "en": {
     "updates": [
       {
-        "date": "2026.08",
-        "type": "Research",
-        "title": "Longitudinal self-concept reanalysis",
-        "summary": "Started an independent LPA/LTA reanalysis of the school-based SEL dataset used in my master’s thesis.",
-        "link": "/en/research/"
+        "date": "2026.11",
+        "type": "Conference",
+        "title": "Shared-caregiving intervention presented in Jinan",
+        "summary": "Presented a poster on the Morning Light digital single-session intervention at the Forum on Adolescent Mental Health and Positive Development, October 31–November 2.",
+        "link": "/en/publications/"
       },
       {
-        "date": "2026.05",
-        "type": "Community",
-        "title": "Rooted & Blooming in Leuven",
-        "summary": "Designed and facilitated a free self-exploration group for graduate students.",
-        "link": "/en/experience/"
-      },
-      {
-        "date": "2025.08",
+        "date": "2026.10",
         "type": "Award",
-        "title": "Digital field research scholarship",
-        "summary": "Received a First Prize Scholarship at Shanghai Normal University’s “Go to the Field” summer training camp.",
-        "link": "/en/projects/"
+        "title": "National Second Prize in Academic Paper Writing",
+        "summary": "Received recognition for a caregiver-focused digital single-session intervention for school refusal.",
+        "link": "/en/cv/"
+      },
+      {
+        "date": "2026",
+        "type": "Submission",
+        "title": "Photo-diary abstract submitted",
+        "summary": "Submitted an abstract on 12,799 diary days to the 2027 GSRNet Meeting. Decision pending.",
+        "link": "/en/publications/"
       }
     ]
   }

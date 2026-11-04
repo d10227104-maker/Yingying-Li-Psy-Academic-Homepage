@@ -2,148 +2,164 @@
   "en": {
     "interests": [
       {
-        "title": "Psychological Interventions & Psychotherapy",
-        "description": "How and for whom psychological support produces meaningful change, including psychotherapy process and outcomes and scalable mental health programs."
+        "title": "Brief, Digital & Single-Session Interventions",
+        "description": "Developing accessible, culturally responsive support for youth and caregivers, including school refusal and family responses to distress."
       },
       {
-        "title": "Self-Concept, Self-Esteem & Socioemotional Development",
-        "description": "Developmental patterns in self-perception, emotion regulation, sleep, and well-being, with an interest in emerging adulthood."
+        "title": "Psychotherapy Process & Outcomes",
+        "description": "Understanding how psychological support works, for whom it helps, and how clinical insight can inform intervention design and evaluation."
       },
       {
-        "title": "Longitudinal & Person-Centered Methods",
-        "description": "Understanding individual pathways through growth models, latent profiles and transitions, and multi-informant longitudinal data."
+        "title": "Socioemotional Development & Emerging Adulthood",
+        "description": "Self-concept, self-esteem, emotion regulation, sleep, and everyday well-being across developmental and cultural contexts."
       },
       {
-        "title": "Multicultural Adjustment & Lived Experience",
-        "description": "How cultural, relational, and institutional contexts shape adjustment, identity, and psychological needs; informed by qualitative and mixed-method research."
+        "title": "Longitudinal, Person-Centered & Mixed Methods",
+        "description": "Combining daily diaries, latent profiles and transitions, within-person models, and qualitative inquiry to understand pathways of change."
       }
     ],
     "experiences": [
       {
-        "title": "Person-Centered Reanalysis of Longitudinal Self-Concept Data",
-        "period": "2026.08 – Present",
-        "role": "Researcher & Data Analyst | Independent Research Project",
-        "summary": "Secondary reanalysis of the school-based SEL dataset used in my master’s thesis at National Taiwan University.",
+        "title": "Morning Light: A Shared-Caregiving Digital Single-Session Intervention for School Refusal",
+        "period": "2026.06 – Present",
+        "role": "Independent Researcher | Leuven, Belgium",
+        "summary": "Developing a culturally adapted, caregiver-focused intervention that addresses both pressure and accommodation in responses to school refusal.",
         "bullets": [
-          "Applying LPA across waves to identify heterogeneous scholastic and social self-concept profiles, and LTA to examine their stability and transitions.",
-          "Using BCH distal outcome analyses to compare global self-worth across profiles. These analyses are ongoing."
+          "Reviewed 61 studies to inform a 25–30-minute mobile prototype adapted from Project EMPOWER for Chinese caregivers.",
+          "Designed content on distress tolerance, validation, and graded return-to-school steps, with safety triage and a three-minute pathway for a second caregiver.",
+          "Planned parent co-design and a pilot randomized trial, including evaluation of the second-caregiver pathway. The prototype has not yet been evaluated in a trial.",
+          "Received Second Prize in a national academic paper-writing competition and presented a poster in Jinan in October–November 2026."
         ],
         "tags": [
-          "LPA",
-          "LTA",
-          "Self-Concept",
-          "SEL"
+          "Digital Interventions",
+          "Single-Session Interventions",
+          "Caregivers",
+          "School Refusal"
         ]
       },
       {
-        "title": "Food Sharing, Self-Presentation, and Identity Construction on Social Media",
-        "period": "2025.08",
-        "role": "Researcher & Group Presenter | Shanghai Normal University",
-        "summary": "Digital ethnographic research during the “Go to the Field” summer training camp on food practices, relationships, identity, and transitions into adult roles.",
+        "title": "Social and Academic Self-Concept Profiles in Preadolescence",
+        "period": "2026.06 – Present",
+        "role": "Independent Researcher | Leuven, Belgium",
+        "summary": "Examining cross-sample profile stability and prospective within-child links across self-concept domains.",
         "bullets": [
-          "Contributed to a group study synthesizing interviews with 64 young adults and presented the final group findings.",
-          "Conducted an individual mixed-method study with 14 participants aged 18–35, using interviews and photo-elicitation.",
-          "Examined platform-specific self-presentation, relational meaning, and autobiographical memory. An exploratory self-esteem analysis with nine participants showed a non-significant pre–post change."
+          "Reanalyzed four-wave data from Taiwan (Grades 5–6; N = 1,016) and used U.S. Early Childhood Longitudinal Study data (Grades 3 and 5; N = 14,392 and 11,282) to examine replication.",
+          "Applied latent profile and transition analyses to study five self-concept profiles and their stability.",
+          "Used random-intercept cross-lagged panel models, adjusting for global self-worth, to examine prospective associations between peer acceptance and other self-perceptions."
+        ],
+        "tags": [
+          "LPA / LTA",
+          "RI-CLPM",
+          "Self-Concept",
+          "Longitudinal Research"
+        ]
+      },
+      {
+        "title": "Active Ingredients of Self-Recording: Daily Mood in a Lockdown Photo-Diary Intervention",
+        "period": "2026.03 – Present",
+        "role": "Independent Researcher | Leuven, Belgium",
+        "summary": "Investigating everyday experiences associated with mood in a self-designed, single-arm photo-diary program for emerging adults.",
+        "bullets": [
+          "Analyzed 12,799 diary entries from 681 accounts over 28 days, with matched pre–post assessments for 442 participants.",
+          "Developed semantic codes through two mood-blind coding passes before linking diary content to mood ratings.",
+          "Within-person analyses in Python examined associations of nature, pets, and food sharing with same-day mood. The single-arm design does not establish causal intervention effects.",
+          "Submitted a poster abstract to the 2027 Global Stress & Resilience Meeting; decision pending."
+        ],
+        "tags": [
+          "Daily Diaries",
+          "Emerging Adulthood",
+          "Mood Regulation",
+          "Python"
+        ]
+      },
+      {
+        "title": "Adolescent School Refusal in China: From Family Interviews to Policy",
+        "period": "2025.11 – 2025.12",
+        "role": "Interviewer | Institute of Psychology, Chinese Academy of Sciences",
+        "summary": "Qualitative work with the National Mental Health Assessment and Development Center.",
+        "bullets": [
+          "Interviewed a family facing school refusal and prepared verbatim transcripts and a reflexive log.",
+          "Authored a policy brief proposing ten school- and community-level measures with evaluation indicators."
+        ],
+        "tags": [
+          "School Refusal",
+          "Interviews",
+          "Policy"
+        ]
+      },
+      {
+        "title": "Eating for Whom? Food Posts and Identity Construction Among Chinese Young Adults",
+        "period": "2025.07 – 2025.08",
+        "role": "Trainee Researcher & Group Presenter | Shanghai Normal University",
+        "summary": "Digital fieldwork on food sharing, relationships, and self-presentation.",
+        "bullets": [
+          "Conducted and thematically analyzed 14 photo-elicitation interviews and piloted a pre–post self-esteem measure.",
+          "Examined how food posts communicate relational ties and how concerns about appearing boastful shape self-presentation.",
+          "Received an individual First Prize Scholarship and presented a group study based on 64 interviews."
         ],
         "tags": [
           "Digital Ethnography",
-          "Emerging Adulthood",
+          "Photo-Elicitation",
           "Identity"
         ]
       },
       {
-        "title": "Trauma-Informed, Recovery-Oriented Care for Women",
-        "period": "2022.09 – 2023.09",
-        "role": "Research Assistant & Group Co-Leader | National Taiwan University, Department of Social Work",
-        "summary": "Evaluation of a localized Trauma Recovery and Empowerment Model (TREM)-based group intervention for women with substance-use and trauma histories.",
+        "title": "Adapting the Trauma Recovery and Empowerment Model (TREM)",
+        "period": "2022.11 – 2023.10",
+        "role": "Research Assistant & Group Recorder | National Taiwan University",
+        "summary": "Supported a localized group intervention for incarcerated women with substance-use and trauma histories.",
         "bullets": [
-          "Co-facilitated a 12-session program in a community addiction treatment center and Taoyuan Women’s Prison.",
-          "Contributed to a mixed-method longitudinal study with 69 intervention and 40 comparison participants, assessed before and after treatment and at 3-, 6-, and 10-month follow-ups.",
-          "Integrated standardized outcomes with in-depth interviews and structured field observations."
+          "Co-screened participants and rehearsed plans for the localized 12-session program; independently facilitated one session at Taoyuan Women’s Prison.",
+          "Documented and analyzed 15 group sessions using structured dialogue, nonverbal observations, and group-process frameworks.",
+          "Collected pre–post assessments for 19 women across two prison cohorts and interviewed five participants; contributed to a longitudinal evaluation (N = 59) with follow-up through ten months."
         ],
         "tags": [
           "Trauma-Informed Care",
-          "Mixed Methods",
-          "Intervention"
+          "Group Processes",
+          "Mixed Methods"
         ],
         "advisor": "Prof. Hui-Ching Wu",
         "funding": "NSTC 110-2410-H-002-135-SS2"
       },
       {
-        "title": "Mindfulness and Photo-Diary Interventions for University Students",
-        "period": "2021.07 – 2022.09",
-        "role": "Intervention Designer & Data Analyst | Guangzhou College of Commerce",
-        "summary": "Designed and implemented mental health programs combining mindfulness, photography, reflective writing, experiential activities, and psychoeducation.",
+        "title": "School-Based Social-Emotional Learning and Self-Concept Development",
+        "period": "2018.08 – 2021.06",
+        "role": "Research Assistant & Project Coordinator | National Taiwan University",
+        "summary": "Coordinated longitudinal evaluation of social-emotional learning curricula in Taiwan and Beijing.",
         "bullets": [
-          "Developed the “21-Day Soul Camera” photo-diary program, engaging more than 800 faculty members and students.",
-          "Led the “Mindfulness Journey” program with 1,001 participants.",
-          "Collected pre–post outcomes and applied repeated-measures analyses and estimated marginal means to examine change."
-        ],
-        "tags": [
-          "Mindfulness",
-          "Photo-Diary",
-          "Program Evaluation"
-        ]
-      },
-      {
-        "title": "Socioemotional Development and School-Based SEL in Preadolescence",
-        "period": "2018.06 – 2021.06",
-        "role": "Research Assistant & Data Analyst | National Taiwan University, Laboratory of Socioemotional Development",
-        "summary": "A two-year, six-wave study of developmental trajectories and differential effects of a school-based social-emotional learning curriculum.",
-        "bullets": [
-          "Led management and cleaning of multi-informant data involving more than 2,000 students, parents, and teachers.",
-          "Applied ALT and multi-group ALT to four-wave self-concept and self-esteem data, alongside latent-variable and longitudinal analyses.",
-          "Developed a coding system for open-ended problem-solving responses, trained undergraduate coders, and assessed inter-rater reliability.",
-          "This work formed the basis of my master’s thesis and a first-author presentation at the 2019 ENSEC Conference."
+          "Managed data from a six-wave Taiwan study with 1,700+ participants and a two-wave Beijing study with 2,300+ participants.",
+          "Used Mplus and R for factor analysis, latent growth models, and multi-group autoregressive latent trajectory models; used SPSS and SAS for emotion-regulation analyses.",
+          "Developed a coding system with Prof. Lay and recruited and trained five undergraduate coders.",
+          "Completed an A+ master’s thesis and contributed to three ENSEC 2019 poster presentations."
         ],
         "tags": [
           "SEL",
-          "Longitudinal Modeling",
-          "Self-Esteem"
-        ],
-        "advisor": "Prof. Keng-Ling Lay",
-        "funding": "MOST 106-2410-H-002-078-SSS; MOST 107-2410-H-002-121-SSS"
-      },
-      {
-        "title": "Culturally Adapted SEL for School-Age Children in Beijing",
-        "period": "2018.02 – 2019.02",
-        "role": "Research Assistant & Data Analyst | National Taiwan University",
-        "summary": "Multi-school evaluation of a culturally adapted SEL curriculum with fourth-, fifth-, and seventh-grade students.",
-        "bullets": [
-          "Analyzed student and parent data from a two-year, five-wave study of emotional intelligence.",
-          "Used ANCOVA, hierarchical regression, and moderation analyses to examine intervention-related gains, parenting, and parent–child attachment.",
-          "Observed heterogeneous effects across grades, schools, and reporters."
-        ],
-        "tags": [
-          "Cultural Adaptation",
-          "Emotion Regulation",
-          "Longitudinal Research"
+          "Intervention Evaluation",
+          "Self-Concept",
+          "ALT"
         ],
         "advisor": "Prof. Keng-Ling Lay"
       },
       {
         "title": "Maternal Beliefs and Preschoolers’ Motivational Choices",
         "period": "2018.02 – 2018.06",
-        "role": "Course Research Project | National Taiwan University",
-        "summary": "Examined maternal beliefs, achievement-goal orientations, and children’s choices in a challenging task context.",
+        "role": "Research Trainee | National Taiwan University",
+        "summary": "Graduate scientific-writing seminar research using data from 77 mother–child dyads.",
         "bullets": [
-          "Prepared questionnaire and behavioral-task data from 77 preschoolers and their mothers.",
-          "Conducted correlation and regression analyses using maternal questionnaires and the Finding Where’s Rabbit iPad visual-search task."
+          "Conducted reliability, correlation, regression, and moderation analyses in SPSS and R and drafted a preliminary English course manuscript."
         ],
         "tags": [
           "Developmental Psychology",
-          "Motivation"
-        ],
-        "advisor": "Prof. Keng-Ling Lay"
+          "Moderation"
+        ]
       },
       {
-        "title": "Visitor Behavior and Educational Effects in a Safari Park",
+        "title": "Visitor Expectations and Experiences in a Safari Park",
         "period": "2017.02 – 2017.05",
         "role": "Undergraduate Thesis Researcher | Sun Yat-sen University",
-        "summary": "Mixed-methods thesis on visitor behavior, viewing preferences, and educational experiences.",
+        "summary": "Mixed-methods research on visitor behavior and educational experiences.",
         "bullets": [
-          "Observed 507 visitor groups across six animal exhibits; combined behavioral and participant observation, interviews, and questionnaires.",
-          "Applied hierarchical regression, contingency analyses, and Mann–Whitney U tests in SPSS."
+          "Combined observations of 507 groups across six exhibits, 44 pre-visit interviews, and 600 verbal records with hierarchical regression analyses."
         ],
         "tags": [
           "Mixed Methods",
@@ -152,33 +168,16 @@
         "advisor": "Prof. Peng Zhang"
       },
       {
-        "title": "Household Labor and Gender-Role Expectations in Hakka Families",
-        "period": "2016",
-        "role": "Student Researcher | Sun Yat-sen University",
-        "summary": "Qualitative case study of modernization, urbanization, and family labor allocation.",
-        "bullets": [
-          "Used participant observation and in-depth interviews, comparing cases across generations and family types.",
-          "Examined how gender-role expectations are negotiated and transmitted through everyday interactions."
-        ],
-        "tags": [
-          "Qualitative Research",
-          "Family Processes"
-        ],
-        "advisor": "Prof. Xunxiang Xia"
-      },
-      {
         "title": "Education and Adolescent Development in Rural Yao Communities",
         "period": "2015.07 – 2015.08",
         "role": "Field Research Intern | Sun Yat-sen University",
-        "summary": "Month-long anthropological fieldwork in Gongcheng Yao Autonomous County on rural education and adolescent development.",
+        "summary": "Ethnographic fieldwork in Gongcheng, Guangxi.",
         "bullets": [
-          "Combined observation, interviews, and psychological measures to examine caregiving, migration, schooling, and adjustment.",
-          "Produced a nearly 30,000-character field report on personality development and educational change."
+          "Used participant observation, interviews, and case analysis to study rural adolescents and left-behind families; final report graded 92/100 (Excellent)."
         ],
         "tags": [
           "Ethnography",
-          "Adolescent Development",
-          "Cultural Context"
+          "Adolescent Development"
         ],
         "advisor": "Prof. Tongxue Tan"
       }

@@ -2,7 +2,7 @@
   "en": {
     "section": {
       "title": "Manuscripts, Presentations & Thesis",
-      "description": "Research outputs listed in my September 2026 CV. Manuscripts under review are distinguished from conference presentations and degree work.",
+      "description": "Manuscripts, conference presentations and submissions, and my master’s thesis. Preparation, review, and pending abstract decisions are identified separately; statuses updated November 5, 2026.",
       "eyebrow": "Research Outputs",
       "note": "Status shown for each entry"
     },
@@ -16,7 +16,9 @@
       "J": "Journal Article",
       "P": "Patent",
       "S": "Under Review",
-      "T": "Thesis"
+      "T": "Thesis",
+      "I": "In Preparation",
+      "A": "Abstract Submitted"
     },
     "empty": "No publications match the selected filters."
   }

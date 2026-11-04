@@ -6,99 +6,32 @@
         "kind": "academic",
         "items": [
           {
-            "name": "Person-Centered Reanalysis of Longitudinal Self-Concept Data",
-            "summary": "Secondary reanalysis of the school-based SEL dataset used in my master’s thesis at National Taiwan University.",
-            "period": "2026.08 – Present",
-            "role": "Researcher & Data Analyst | Independent Research Project",
+            "name": "Morning Light: A Shared-Caregiving Digital Single-Session Intervention for School Refusal",
+            "summary": "Developing a culturally adapted, caregiver-focused intervention that addresses both pressure and accommodation in responses to school refusal.",
+            "period": "2026.06 – Present",
+            "role": "Independent Researcher | Leuven, Belgium",
             "tags": [
-              "LPA",
-              "LTA",
+              "Digital Interventions",
+              "Single-Session Interventions",
+              "Caregivers",
+              "School Refusal"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "Social and Academic Self-Concept Profiles in Preadolescence",
+            "summary": "Examining cross-sample profile stability and prospective within-child links across self-concept domains.",
+            "period": "2026.06 – Present",
+            "role": "Independent Researcher | Leuven, Belgium",
+            "tags": [
+              "LPA / LTA",
+              "RI-CLPM",
               "Self-Concept",
-              "SEL"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
-            "name": "Food Sharing, Self-Presentation, and Identity Construction on Social Media",
-            "summary": "Digital ethnographic research during the “Go to the Field” summer training camp on food practices, relationships, identity, and transitions into adult roles.",
-            "period": "2025.08",
-            "role": "Researcher & Group Presenter | Shanghai Normal University",
-            "tags": [
-              "Digital Ethnography",
-              "Emerging Adulthood",
-              "Identity"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
-            "name": "Trauma-Informed, Recovery-Oriented Care for Women",
-            "summary": "Evaluation of a localized Trauma Recovery and Empowerment Model (TREM)-based group intervention for women with substance-use and trauma histories.",
-            "period": "2022.09 – 2023.09",
-            "role": "Research Assistant & Group Co-Leader | National Taiwan University, Department of Social Work",
-            "tags": [
-              "Trauma-Informed Care",
-              "Mixed Methods",
-              "Intervention"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
-            "name": "Mindfulness and Photo-Diary Interventions for University Students",
-            "summary": "Designed and implemented mental health programs combining mindfulness, photography, reflective writing, experiential activities, and psychoeducation.",
-            "period": "2021.07 – 2022.09",
-            "role": "Intervention Designer & Data Analyst | Guangzhou College of Commerce",
-            "tags": [
-              "Mindfulness",
-              "Photo-Diary",
-              "Program Evaluation"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
-            "name": "Socioemotional Development and School-Based SEL in Preadolescence",
-            "summary": "A two-year, six-wave study of developmental trajectories and differential effects of a school-based social-emotional learning curriculum.",
-            "period": "2018.06 – 2021.06",
-            "role": "Research Assistant & Data Analyst | National Taiwan University, Laboratory of Socioemotional Development",
-            "tags": [
-              "SEL",
-              "Longitudinal Modeling",
-              "Self-Esteem"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
-            "name": "Culturally Adapted SEL for School-Age Children in Beijing",
-            "summary": "Multi-school evaluation of a culturally adapted SEL curriculum with fourth-, fifth-, and seventh-grade students.",
-            "period": "2018.02 – 2019.02",
-            "role": "Research Assistant & Data Analyst | National Taiwan University",
-            "tags": [
-              "Cultural Adaptation",
-              "Emotion Regulation",
               "Longitudinal Research"
             ],
             "links": [
@@ -109,13 +42,15 @@
             ]
           },
           {
-            "name": "Maternal Beliefs and Preschoolers’ Motivational Choices",
-            "summary": "Examined maternal beliefs, achievement-goal orientations, and children’s choices in a challenging task context.",
-            "period": "2018.02 – 2018.06",
-            "role": "Course Research Project | National Taiwan University",
+            "name": "Active Ingredients of Self-Recording: Daily Mood in a Lockdown Photo-Diary Intervention",
+            "summary": "Investigating everyday experiences associated with mood in a self-designed, single-arm photo-diary program for emerging adults.",
+            "period": "2026.03 – Present",
+            "role": "Independent Researcher | Leuven, Belgium",
             "tags": [
-              "Developmental Psychology",
-              "Motivation"
+              "Daily Diaries",
+              "Emerging Adulthood",
+              "Mood Regulation",
+              "Python"
             ],
             "links": [
               {
@@ -125,8 +60,93 @@
             ]
           },
           {
-            "name": "Visitor Behavior and Educational Effects in a Safari Park",
-            "summary": "Mixed-methods thesis on visitor behavior, viewing preferences, and educational experiences.",
+            "name": "Adolescent School Refusal in China: From Family Interviews to Policy",
+            "summary": "Qualitative work with the National Mental Health Assessment and Development Center.",
+            "period": "2025.11 – 2025.12",
+            "role": "Interviewer | Institute of Psychology, Chinese Academy of Sciences",
+            "tags": [
+              "School Refusal",
+              "Interviews",
+              "Policy"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "Eating for Whom? Food Posts and Identity Construction Among Chinese Young Adults",
+            "summary": "Digital fieldwork on food sharing, relationships, and self-presentation.",
+            "period": "2025.07 – 2025.08",
+            "role": "Trainee Researcher & Group Presenter | Shanghai Normal University",
+            "tags": [
+              "Digital Ethnography",
+              "Photo-Elicitation",
+              "Identity"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "Adapting the Trauma Recovery and Empowerment Model (TREM)",
+            "summary": "Supported a localized group intervention for incarcerated women with substance-use and trauma histories.",
+            "period": "2022.11 – 2023.10",
+            "role": "Research Assistant & Group Recorder | National Taiwan University",
+            "tags": [
+              "Trauma-Informed Care",
+              "Group Processes",
+              "Mixed Methods"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "School-Based Social-Emotional Learning and Self-Concept Development",
+            "summary": "Coordinated longitudinal evaluation of social-emotional learning curricula in Taiwan and Beijing.",
+            "period": "2018.08 – 2021.06",
+            "role": "Research Assistant & Project Coordinator | National Taiwan University",
+            "tags": [
+              "SEL",
+              "Intervention Evaluation",
+              "Self-Concept",
+              "ALT"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "Maternal Beliefs and Preschoolers’ Motivational Choices",
+            "summary": "Graduate scientific-writing seminar research using data from 77 mother–child dyads.",
+            "period": "2018.02 – 2018.06",
+            "role": "Research Trainee | National Taiwan University",
+            "tags": [
+              "Developmental Psychology",
+              "Moderation"
+            ],
+            "links": [
+              {
+                "label": "Research details",
+                "href": "/en/research/"
+              }
+            ]
+          },
+          {
+            "name": "Visitor Expectations and Experiences in a Safari Park",
+            "summary": "Mixed-methods research on visitor behavior and educational experiences.",
             "period": "2017.02 – 2017.05",
             "role": "Undergraduate Thesis Researcher | Sun Yat-sen University",
             "tags": [
@@ -141,30 +161,13 @@
             ]
           },
           {
-            "name": "Household Labor and Gender-Role Expectations in Hakka Families",
-            "summary": "Qualitative case study of modernization, urbanization, and family labor allocation.",
-            "period": "2016",
-            "role": "Student Researcher | Sun Yat-sen University",
-            "tags": [
-              "Qualitative Research",
-              "Family Processes"
-            ],
-            "links": [
-              {
-                "label": "Research details",
-                "href": "/en/research/"
-              }
-            ]
-          },
-          {
             "name": "Education and Adolescent Development in Rural Yao Communities",
-            "summary": "Month-long anthropological fieldwork in Gongcheng Yao Autonomous County on rural education and adolescent development.",
+            "summary": "Ethnographic fieldwork in Gongcheng, Guangxi.",
             "period": "2015.07 – 2015.08",
             "role": "Field Research Intern | Sun Yat-sen University",
             "tags": [
               "Ethnography",
-              "Adolescent Development",
-              "Cultural Context"
+              "Adolescent Development"
             ],
             "links": [
               {

@@ -15,14 +15,18 @@ const TYPE_LABELS: Record<Locale, Record<PublicationEntry["type"], string>> = {
     J: "Journal",
     P: "Patent",
     S: "Under Review",
-    T: "Thesis"
+    T: "Thesis",
+    I: "In Preparation",
+    A: "Abstract Submitted"
   },
   zh: {
     C: "会议",
     J: "期刊",
     P: "专利",
     S: "投稿中",
-    T: "学位论文"
+    T: "学位论文",
+    I: "In Preparation",
+    A: "Abstract Submitted"
   }
 };
 

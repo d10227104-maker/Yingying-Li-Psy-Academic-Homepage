@@ -39,7 +39,7 @@ export type ResearchExperience = {
 
 export type PublicationEntry = {
   id: string;
-  type: "C" | "J" | "P" | "S" | "T";
+  type: "C" | "J" | "P" | "S" | "T" | "I" | "A";
   title: string;
   authors: string;
   venue: string;
@@ -212,6 +212,8 @@ export type PublicationsPageCopy = Localized<{
     P: string;
     S: string;
     T: string;
+    I: string;
+    A: string;
   };
   empty: string;
 }>;

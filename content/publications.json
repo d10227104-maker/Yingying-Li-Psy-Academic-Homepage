@@ -2,12 +2,21 @@
   "en": {
     "entries": [
       {
-        "id": "Manuscript",
+        "id": "A1",
+        "type": "I",
+        "title": "Beyond the one-parent model: Developing a shared-caregiving digital single-session intervention for school refusal in China",
+        "authors": "Li, Y.",
+        "venue": "Manuscript in preparation",
+        "year": "2026",
+        "notes": "In preparation; not submitted or published"
+      },
+      {
+        "id": "A2",
         "type": "S",
         "title": "Do parental cognitions affect children’s mental health? An empirical study in central China based on theories of intergenerational transmission and social learning.",
         "authors": "Li, Y., & Tan, R.",
         "venue": "Journal of Child and Family Studies — manuscript under review",
-        "year": "Under review",
+        "year": "2026",
         "tags": [
           "Parenting",
           "Mental Health"
@@ -15,57 +24,7 @@
         "notes": "Under review; not an accepted or published article"
       },
       {
-        "id": "Presentation-2022",
-        "type": "C",
-        "title": "Care and Support for “Swing Players”: Preliminary Development of a CBT- and IPSRT-Based Therapeutic Group for Individuals with Bipolar I Disorder.",
-        "authors": "Li, Y., Xue, R., He, X., & Guo, Z.",
-        "venue": "Mental Health Social Work Poster Exhibition, Department of Social Work, National Taiwan University, Taipei, Taiwan",
-        "year": "2022",
-        "notes": "Poster presentation, December"
-      },
-      {
-        "id": "Presentation-2019-1",
-        "type": "C",
-        "title": "Differential SEL effect for children with diverse initial states: I. The self-concept curriculum designed by Taiwan Happiness Village Association.",
-        "authors": "Li, Y., Lay, K. L., Lin, C. Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
-        "venue": "7th ENSEC Conference, Budapest, Hungary (August); 7th NTU Psychology Department Research Exchange and 2019 NTU–Peking University–Chinese University of Hong Kong Psychology Academic Exchange, Taipei, Taiwan (May)",
-        "year": "2019",
-        "notes": "Poster presentations",
-        "poster": "/posters/ensec-2019-self-concept.png",
-        "links": [
-          {
-            "label": "View full-size poster",
-            "href": "/posters/ensec-2019-self-concept.png"
-          }
-        ]
-      },
-      {
-        "id": "Presentation-2019-2",
-        "type": "C",
-        "title": "When an SEL program is implemented without community partnership: Differential SEL effect for children with diverse social economic status.",
-        "authors": "Lin, C. Y., Lay, K. L., Li, Y., Yang, L. J., & Chen, H. T.",
-        "venue": "7th ENSEC Conference, Budapest, Hungary",
-        "year": "2019",
-        "notes": "Poster presentation, August",
-        "poster": "/posters/ensec-2019-community-partnership.png",
-        "links": [
-          {
-            "label": "View full-size poster",
-            "href": "/posters/ensec-2019-community-partnership.png"
-          }
-        ]
-      },
-      {
-        "id": "Presentation-2019-3",
-        "type": "C",
-        "title": "Differential SEL effect for children with diverse initial states II: The communication-skill curriculum designed by Taiwan Happiness Village Association.",
-        "authors": "Cheng, C., Lay, K. L., Lin, C. Y., Li, Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
-        "venue": "7th ENSEC Conference, Budapest, Hungary",
-        "year": "2019",
-        "notes": "Poster presentation, August"
-      },
-      {
-        "id": "Master’s-Thesis",
+        "id": "A3",
         "type": "T",
         "title": "The Intervention Effect of the Self-Concept Curriculum Designed by Taiwan Happiness Village Association on Children with Diverse Initial States.",
         "authors": "Li, Y.",
@@ -77,6 +36,65 @@
             "href": "https://doi.org/10.6342/NTU202104178"
           }
         ]
+      },
+      {
+        "id": "A4",
+        "type": "C",
+        "title": "Beyond the one-parent model: Developing a shared-caregiving digital single-session intervention for school refusal in China",
+        "authors": "Li, Y.",
+        "venue": "Forum on Adolescent Mental Health and Positive Development, Jinan, China",
+        "year": "2026",
+        "notes": "Poster presented October 31–November 2, 2026"
+      },
+      {
+        "id": "A5",
+        "type": "A",
+        "title": "Through the lens and around the shared table: Noticing and food sharing as candidate mood-regulation resources across 12,799 diary days of emerging adults under prolonged COVID-19 campus lockdown",
+        "authors": "Li, Y.",
+        "venue": "Submitted to the Global Stress & Resilience Meeting (2027 GSRNet Meeting), Lausanne, Switzerland, February 3–5, 2027",
+        "year": "2026",
+        "notes": "Abstract submitted for poster presentation; decision pending. Not an accepted presentation."
+      },
+      {
+        "id": "A6",
+        "type": "C",
+        "title": "Differential SEL effect for children with diverse initial states: I. The self-concept curriculum designed by Taiwan Happiness Village Association.",
+        "authors": "Li, Y., Lay, K. L., Lin, C. Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
+        "venue": "7th European Network for Social and Emotional Competence (ENSEC) Conference, Budapest, Hungary",
+        "year": "2019",
+        "notes": "Poster presented August 29–31, 2019",
+        "poster": "/posters/ensec-2019-self-concept.png",
+        "links": [
+          {
+            "label": "View full-size poster",
+            "href": "/posters/ensec-2019-self-concept.png"
+          }
+        ]
+      },
+      {
+        "id": "A7",
+        "type": "C",
+        "title": "When an SEL program is implemented without community partnership: Differential SEL effect for children with diverse socioeconomic status.",
+        "authors": "Lin, C. Y., Lay, K. L., Li, Y., Yang, L. J., & Chen, H. T.",
+        "venue": "7th European Network for Social and Emotional Competence (ENSEC) Conference, Budapest, Hungary",
+        "year": "2019",
+        "notes": "Poster presented August 29–31, 2019",
+        "poster": "/posters/ensec-2019-community-partnership.png",
+        "links": [
+          {
+            "label": "View full-size poster",
+            "href": "/posters/ensec-2019-community-partnership.png"
+          }
+        ]
+      },
+      {
+        "id": "A8",
+        "type": "C",
+        "title": "Differential SEL effect for children with diverse initial states II: The communication-skill curriculum designed by Taiwan Happiness Village Association.",
+        "authors": "Cheng, C., Lay, K. L., Lin, C. Y., Li, Y., Chang, T. C., Yang, L. J., Chen, H. T., & Wang, Y. J.",
+        "venue": "7th European Network for Social and Emotional Competence (ENSEC) Conference, Budapest, Hungary",
+        "year": "2019",
+        "notes": "Poster presented August 29–31, 2019"
       }
     ]
   }
